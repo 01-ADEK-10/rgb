@@ -27,7 +27,7 @@
   box-shadow: 0 4px 4px black;
   cursor: pointer;
   transition: all 0.2s ease;
-  
+  margin-bottom: 10px;
 }
 
 .parent button:active {
