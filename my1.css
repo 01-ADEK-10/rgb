@@ -4,7 +4,7 @@
 }
 
 body {
-  background: #ffffff;
+  background: white;
   transition: all 1s ease;
   
 }
@@ -65,7 +65,7 @@ body {
 
 .round-3 {
   /* border-radius: 20%; */
-  background-color: #ffffff;
+  background-color: white;
 }
 
 .round-4 {
