@@ -1,11 +1,14 @@
 * {
   font-family: sans-serif;
   box-sizing: border-box;
+  color-scheme: only light;	
 }
 
 body {
   background: rgba(254, 254, 254, 0);
   transition: all 1s ease;
+  
+    
   
 }
 
