@@ -37,7 +37,7 @@ buttonSt.addEventListener("click", () => {
 			alpha++;
 			document.querySelector(".parent").style.background = colors2[alpha];
 			alpha = -alpha;
-			console.log("click");
+			console.log("клик");
 			timer = setTimeout(strob, 500);
   }
    
